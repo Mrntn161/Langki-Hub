@@ -4,7 +4,7 @@
 
 ## What is Langki?
 
-Langki is an AI-based framework that combines the power of large language models (LLMs) with spaced repetition systems (SRS). With essential built-in functionalities, Langki extends the basic features of Anki flashcards to offer an all-in-one toolkit for language learners. The name 'Langki' is a blend of 'language' and 'Anki'.
+Langki is an AI-based framework that combines the power of large language models (LLMs) with spaced repetition systems (SRS). The framework aims to extend the basic features of Anki flashcards to offer an all-in-one toolkit for language learners. The name 'Langki' is a blend of 'language' and 'Anki'.
 
 ## Features
 
@@ -14,7 +14,7 @@ Langki has all essential built-in functionalities for language learners, includi
 
 ### Highly customizable
 
-Langki is just a template (or note type), which means users can easily clone and modify it to suit their own needs. From the system prompt to the reference information, users have full control over how the AI responds, helping to prevent hallucinations.
+Langki is just a template (or note type), which means users can easily clone and modify it to suit their own needs. From the prompt that guides AI behavior to the reference information that helps prevent hallucinations, users have full control over the flashcard and AI responses, opening up many possibilities.
 
 ### Flashcard generation
 
@@ -26,11 +26,11 @@ While Langki is pre-configured for English, you can easily switch voices or conf
 
 ### Facilitate open-ended questions
 
-Engage with an AI assistant directly within your flashcards. By eliminating the need for rote memorization, learners can answer flashcards in their own words, fostering deeper understanding.
+Interact with an AI assistant directly within your flashcards. By removing the need for rote memorization, learners can respond in their own words, promoting deeper understanding.
 
 ### Free to use
 
-No sign-up is required—just install the add-on and download the Langki note type. You can jump right in and start using all of Langki's features.
+No sign-up is required, just install the add-on and download the Langki note type. You can jump right in and start using all of Langki's features.
 
 > [!Notice]
 > To ensure everyone can access Langki, a monthly quota is in place. All of Langki's features cost money and time to maintain. If you're a power user, consider subscribing to support the project and remove all usage limits.
@@ -41,5 +41,3 @@ While the desktop version needs an addon to work properly, mobile users can revi
 
 > [!Notice]
 > Ankidroid and Ankimobile are still not supported due to technical barriers.
-
-
