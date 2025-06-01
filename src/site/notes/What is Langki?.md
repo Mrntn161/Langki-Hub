@@ -32,12 +32,12 @@ Interact with an AI assistant directly within your flashcards. By removing the n
 
 No sign-up is required, just install the add-on and download the Langki note type. You can jump right in and start using all of Langki's features.
 
-> [!Notice]
+> [!Note]
 > To ensure everyone can access Langki, a monthly quota is in place. All of Langki's features cost money and time to maintain. If you're a power user, consider subscribing to support the project and remove all usage limits.
 
 ### Work on both desktop and mobile
 
 While the desktop version needs an addon to work properly, mobile users can review Langki flashcards on Ankiweb. 
 
-> [!Notice]
+> [!Note]
 > Ankidroid and Ankimobile are still not supported due to technical barriers.
